@@ -1,7 +1,7 @@
 # C++ Style Autograder
 
 ## Description
-Style autograder for code written in C++.
+Style autograder for C++.
 
 ## Table of Contents
   * [Background](#background) <br>
